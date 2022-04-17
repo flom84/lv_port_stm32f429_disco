@@ -14,6 +14,7 @@
 
 #include "lvgl/lvgl.h"
 #include "lvgl/examples/lv_examples.h"
+#include "lv_demos/src/lv_demo_widgets/lv_demo_widgets.h"
 
 #include "hal_stm_lvgl/tft/tft.h"
 #include "hal_stm_lvgl/touchpad/touchpad.h"
