@@ -39,7 +39,7 @@
 #define LV_USE_DEMO_BENCHMARK   1
 
 /*Stress test for LVGL*/
-#define LV_USE_DEMO_STRESS      0
+#define LV_USE_DEMO_STRESS      1
 
 
 #endif /*LV_EX_CONF_H*/
